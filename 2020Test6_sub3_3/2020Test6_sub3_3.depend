@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681383825 source:c:\users\gabri\onedrive\documents\róbert\xii_info\2020test6_sub3_3\bac.out.c
+
+1681385199 source:c:\users\gabri\onedrive\documents\róbert\xii_info\2020test6_sub3_3\main.cpp
+	<iostream>
+	<fstream>
+
